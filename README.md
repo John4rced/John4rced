@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @John4rced, and I'm 29 y.o.
+- 👋 Hi, I’m @John4rced,
 - 👀 I’m interested in codding , but I'm very newbie
 I have started to learn any info about codding in 2021 late July.
 - 🌱 I’m currently learning python
